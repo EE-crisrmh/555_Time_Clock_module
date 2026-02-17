@@ -61,6 +61,11 @@ The output is a square wave suitable for driving:
 ## Integration
 This module is designed to plug directly into a breadboard system and drive the system clock line.
 
+## Datasheets
+- [LM555 Timer – Texas Instruments](docs/datasheets/LM555_timer_TI.pdf)
+- [SN74HC00 Quad 2-Input NAND Gate – Texas Instruments](docs/datasheets/SN74HC00_TI.pdf)
+
+
 ## Future Improvements
 - Push-button manual clock (single-step mode)
 - Clock enable / halt control
