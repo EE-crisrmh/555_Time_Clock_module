@@ -1,0 +1,21 @@
+# Clock Frequency Calculations
+
+The LM555 is configured in astable mode.
+
+f = 1 / (0.693 × (R1 + 2R2) × C)
+
+## Component Values
+
+R1 =  
+R2 =  
+C =  
+
+## Frequency Range
+
+Minimum frequency:
+
+Maximum frequency:
+
+## Duty Cycle
+
+D = (R1 + R2) / (R1 + 2R2)
