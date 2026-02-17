@@ -1,0 +1,18 @@
+# Component Selection
+
+## LM555 Timer
+Chosen for:
+- Stable astable operation
+- Wide supply voltage range
+- Sufficient output drive for digital logic clock input
+
+## SN74HC00 NAND Gate
+Used for:
+- Clock gating / signal conditioning
+- CMOS compatibility
+- Low power consumption
+
+## Timing Capacitor
+Selected to achieve the target clock frequency range for:
+- Manual debugging
+- Normal CPU operation
