@@ -67,7 +67,6 @@ This module is designed to plug directly into a breadboard system and drive the 
 
 
 ## Future Improvements
-- Push-button manual clock (single-step mode)
 - Clock enable / halt control
 - Buffered output stage
 - LED frequency indicator
